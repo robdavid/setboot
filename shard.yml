@@ -1,0 +1,13 @@
+name: setboot
+version: 0.1.0
+
+authors:
+  - Rob David <rob.j.david@googlemail.com>
+
+targets:
+  setboot:
+    main: src/setboot.cr
+
+crystal: 1.1.0
+
+license: MIT
